@@ -1,5 +1,9 @@
 ---
 title: "CV"
+resources:
+  - "bucky.pdf"
 ---
 
-TODO
+I need to update mine so in lieu of of a CV I have attached a photo of my dog(as a pdf.
+
+![Bucky](bucky.pdf){fig-align="center}
