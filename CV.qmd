@@ -6,4 +6,4 @@ resources:
 
 I need to update mine so in lieu of of a CV I have attached a photo of my dog.
 
-![Bucky](bucky.pdf){fig-align="center" width="90%"}\
+![Bucky](bucky.pdf){fig-align="center" width="90%" style="min-height:50vh;"}\
