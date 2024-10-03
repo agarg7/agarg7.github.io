@@ -3,7 +3,6 @@ title: "About me"
 resources:
   - "me.jpeg"
 ---
-![ME](me.jpeg "Photo of Me"){style="float: left" width=30% fig-alt="ME"}  
-I am a second year Statistics Ph.D. student at the University of Chicago. Previously, I earned a Bachelor's degree in Computer Science and Mathematics from the University of Wisconsin–Madison in 2023.  
-  
-  
+
+![Me](me.jpeg){fig-alt="ME" style="float: left; margin: 1em" width="30%"}\
+I am a second year Statistics Ph.D. student at the University of Chicago. Previously, I earned a Bachelor's degree in Computer Science and Mathematics from the University of Wisconsin–Madison in 2023.
