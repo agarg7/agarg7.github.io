@@ -1,0 +1,16 @@
+main:
+  - title: "Discrete Causal Representations from Heterogeneous Domains: A Bayesian Approach with Social Survey Applications"
+    authors: "Ankur Garg, Michael Stettler, Aaron Schein, Julius von Kügelgen"
+    conference: "Preprint. Presented at ISBA World Meeting 2026."
+    conference_short: "Preprint"
+    image: ./assets/img/teaser_CRL.png
+    links:
+      - label: "Paper"
+        url: "https://arxiv.org/abs/2606.06288"
+      - label: "Poster"
+        url: "./assets/files/poster_CRL.pdf"
+      - label: "Slides"
+        url: "https://arxiv.org/abs/2606.06288"
+      - label: "Code"
+        url: "https://github.com/agarg7/discrete-bayesian-crl"
+    notes: "ISBA 2026 talk"
