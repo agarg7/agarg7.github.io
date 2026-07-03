@@ -10,7 +10,7 @@ main:
       - label: "Poster"
         url: "./assets/files/poster_CRL.pdf"
       - label: "Slides"
-        url: "https://arxiv.org/abs/2606.06288"
+        url: "./assets/files/pres_CRL.pdf"
       - label: "Code"
         url: "https://github.com/agarg7/discrete-bayesian-crl"
     notes: "ISBA 2026 Best Poster Prize"
